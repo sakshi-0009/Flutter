@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'India Flag',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('India Flag'),
+          title: Text('Happy Republic Day'),
         ),
         body: Center(
           child: IndiaFlag(),
